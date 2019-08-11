@@ -1,0 +1,29 @@
+<----- TROCAR LAMPADA -----> 
+
+1-  Encontre a chave de força e desligue a energia que passa pela lampada que está queimada;
+2 - Encontre uma escada para acessar a lampada ;
+3-  Posicione a escada logo abaixo do local onde esta a lampada;
+-------------------------------------------------------------------------------------------------------
+if (algo ao redor):
+    Retire qualquer objeto ao redor que te empeça de realizar essa tarefa;
+-------------------------------------------------------------------------------------------------------
+else:
+    Suba na escada até conseguir tocar a lampada com as duas mãos mantendo o equilibrio no topo da escada;
+    Rosqueie a lampada no sentido anti horario até que a lampada queimada seja totalmente removida;
+    Desça do topo da escada com a lampada queimada em mãos;
+    Encontrei um local adequado para descartar a lampada queimada;
+-------------------------------------------------------------------------------------------------------
+8 - Mantenha a energia que passa pela lampada desligada;
+9 - Encontre uma lampada para substituir a que já não funciona;
+10 - Retire a nova lampada da embalagem;
+-------------------------------------------------------------------------------------------------------
+while True:
+    11 - Siga o passo 2;
+    12 - Siga o passo 3;
+    13 - Siga o passo 4;
+-------------------------------------------------------------------------------------------------------
+14 - Rosqueie a nova lampada no sentido horario até que a mesma encaixe perfeitamente;
+15 - Desça da escada de maneira a evitar acidentes;
+16 - Encontre a chave de força e ligue novamente a energia que passa pela lampada;
+17 - Aperte o interruptor responsavel pela lampada para testa-lá;
+18 - Caso não funcione repita todos passos desde o começo;
